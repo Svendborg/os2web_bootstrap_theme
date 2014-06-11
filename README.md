@@ -1,4 +1,4 @@
-svendborg_theme
+os2web_bootstrap_theme
 ===============
 
 Sub theme to OS2web from Bootstrap
