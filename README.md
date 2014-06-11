@@ -1,7 +1,7 @@
 svendborg_theme
 ===============
 
-Sub theme to Svendborg.dk from Bootstrap
+Sub theme to OS2web from Bootstrap
 
 Install
 =======
